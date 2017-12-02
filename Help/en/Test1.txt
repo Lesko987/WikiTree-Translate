@@ -1,3 +1,25 @@
 WikiTree's unique system carefully balances privacy and open [[collaboration]].,
 
 Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted List, what you can see and do depends on the Privacy Level.,
+
+The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time.,
+
+Here are details on the seven Privacy Levels.,
+
+== https://www.wikitree.com/images/icons/unlisted.png Unlisted ==,
+
+This is for profiles that you want to keep entirely hidden from everyone but the [[Trusted List]]. Unlisted names do not appear in search results, surname index pages, or automatic matches.,
+
+Unlisted is the default setting for '''children under 13'''. Please note that regardless of the Privacy Level, profiles of young children should only be used for placeholders and should not include [https://en.wikipedia.org/wiki/Personally_identifiable_information Personally Identifiable Information].,
+
+Unlisted is not an option for non-living people, anyone born more than 100 years ago, or for profiles of active members. If you, as an active WikiTree member, do not want your name to appear anywhere [[Unlisted active users|click here]] for other suggestions.,
+
+== https://www.wikitree.com/images/icons/private.png Private ==,
+
+The public can see certain limited information on a Private profile. Like being listed in a phone book, this enables others to find it.,
+
+When editing a profile you can tell at a glance whether a particular piece of information is private with the following colored icons.,
+
+=== https://www.wikitree.com/images/icons/dot20.gif Private information ===,
+
+''Red icons'' mean the information can only be viewed by the [[Trusted List]].,
