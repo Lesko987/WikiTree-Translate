@@ -16,13 +16,17 @@ msgstr ""
 msgid "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
 msgstr "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
 
+#: Privacy:insert
+msgid "WikiTree's good."
+msgstr "WikiTree's good."
+
 #: Privacy:2
 msgid "Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted List, what you can see and do depends on the Privacy Level."
 msgstr "Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted List, what you can see and do depends on the Privacy Level."
 
 #: Privacy:4
-msgid "The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time."
-msgstr "The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time."
+msgid "The [[Profile Manager]] can not change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time."
+msgstr "The [[Profile Manager]] can not change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time."
 
 #: Privacy:6
 msgid "Here are details on the seven Privacy Levels."
