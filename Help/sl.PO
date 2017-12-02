@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English (Help)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-02 10:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 2.18-dev\n"
+
+#: Privacy:0
+msgid "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
+msgstr ""
+
+#: Privacy:2
+msgid "Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted List, what you can see and do depends on the Privacy Level."
+msgstr ""
+
+#: Privacy:4
+msgid "The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time."
+msgstr ""
+
+#: Privacy:6
+msgid "Here are details on the seven Privacy Levels."
+msgstr ""
+
+#: Privacy:8
+msgid "== https://www.wikitree.com/images/icons/unlisted.png Unlisted =="
+msgstr ""
+
+#: Privacy:10
+msgid "This is for profiles that you want to keep entirely hidden from everyone but the [[Trusted List]]. Unlisted names do not appear in search results, surname index pages, or automatic matches."
+msgstr ""
+
+#: Privacy:12
+msgid "Unlisted is the default setting for '''children under 13'''. Please note that regardless of the Privacy Level, profiles of young children should only be used for placeholders and should not include [https://en.wikipedia.org/wiki/Personally_identifiable_information Personally Identifiable Information]."
+msgstr ""
+
+#: Privacy:14
+msgid "Unlisted is not an option for non-living people, anyone born more than 100 years ago, or for profiles of active members. If you, as an active WikiTree member, do not want your name to appear anywhere [[Unlisted active users|click here]] for other suggestions."
+msgstr ""
+
+#: Privacy:16
+msgid "== https://www.wikitree.com/images/icons/private.png Private =="
+msgstr ""
+
+#: Privacy:18
+msgid "The public can see certain limited information on a Private profile. Like being listed in a phone book, this enables others to find it."
+msgstr ""
+
+#: Privacy:20
+msgid "When editing a profile you can tell at a glance whether a particular piece of information is private with the following colored icons."
+msgstr ""
+
+#: Privacy:22
+msgid "=== https://www.wikitree.com/images/icons/dot20.gif Private information ==="
+msgstr ""
+
+#: Privacy:24
+msgid "''Red icons'' mean the information can only be viewed by the [[Trusted List]]."
+msgstr ""
+
+#: Privacy:26
+msgid "This includes '''Gender''', '''Formal First Name''', '''Nicknames''', and family relationships such as '''Spouses''', '''Siblings''', and '''Children''', as well as the '''Personal Memories''' section."
+msgstr ""
+
+#: Privacy:28
+msgid "The biography/sources section (text of the page) and family tree are private by default but can be changed to be public."
+msgstr ""
+
+#: Privacy:30
+msgid "=== https://www.wikitree.com/images/icons/dot50.gif Public information ==="
+msgstr ""
+
+#: Privacy:32
+msgid "''Green icons'' denote public information."
+msgstr ""
+
+#: Privacy:34
+msgid "This includes the basic '''First Name''' and '''Last Names''', the name '''Prefix''' and '''Suffix''', and '''Public Comments'''."
+msgstr ""
+
+#: Privacy:36
+msgid "=== https://www.wikitree.com/images/icons/dot40.gif Partially private information ==="
+msgstr ""
+
+#: Privacy:38
+msgid "''Yellow icons'' mean that the most sensitive aspect of something is protected but a limited version is made available."
+msgstr ""
+
+#: Privacy:40
+msgid "Specifically:"
+msgstr ""
+
+#: Privacy:42
+msgid "'''Middle Name''': The full middle name is private, but the middle initial is public."
+msgstr ""
+
+#: Privacy:44
+msgid "'''Birth Date''' and '''Death Date''': The exact month, day, and year are private, but the decade is public, e.g. "1970s". We do this so that people can figure out whether someone is related to them."
+msgstr ""
+
+#: Privacy:46
+msgid "'''Photos''': The tiny thumbnail of a photo is always unrestricted but the full version and information about images is private. Note, however, that if someone in a photo is public the whole image will be public. See [[Photo Privacy]]."
+msgstr ""
+
+#: Privacy:48
+msgid "'''Activity''': The items recorded in [[activity feeds]] are viewable by anyone but they can only see the line item itself, not the details. (For example, anyone can see "Thomas Jefferson edited the biography of Ben Franklin", but only those on the Trusted List can click to see the details of what was edited.)"
+msgstr ""
+
+#: Privacy:50
+msgid "== https://www.wikitree.com/images/icons/public-bio.png Private with Public Biography =="
+msgstr ""
+
+#: Privacy:52
+msgid "Exactly like Private profiles, with all the protections outlined above, except that the '''Biography/Sources''' section of the profile (the text of the page) is visible to everyone. It can still only be edited by the Trusted List."
+msgstr ""
+
+#: Privacy:53
+msgid "<span id="Private_with_Public_Tree"></span>"
+msgstr ""
+
+#: Privacy:54
+msgid "== https://www.wikitree.com/images/icons/privacy35.png Private with Public Family Tree =="
+msgstr ""
+
+#: Privacy:56
+msgid "Exactly like Private profiles except that the person's '''Family Tree''' is public. Since they're connected, this also means the '''Gender''' and [[DNA]] test connections are public."
+msgstr ""
+
+#: Privacy:58
+msgid "The person's family members will still be private unless they have public family trees. For example, if their mother is Private it will say "private mother" on the person's profile and family tree views."
+msgstr ""
+
+#: Privacy:60
+msgid "== https://www.wikitree.com/images/icons/public-tree.png Private with Public Biography and Family Tree =="
+msgstr ""
+
+#: Privacy:62
+msgid "Like the above, but with the text of the profile and the tree public."
+msgstr ""
+
+#: Privacy:64
+msgid "== https://www.wikitree.com/images/icons/public.png Public =="
+msgstr ""
+
+#: Privacy:66
+msgid "Anyone can view all the information on a Public profile. However, you still need to be in the [[Trusted List|Trusted List]] to add or change information."
+msgstr ""
+
+#: Privacy:68
+msgid "Public and Open are not options for profiles of living people."
+msgstr ""
+
+#: Privacy:70
+msgid "== https://www.wikitree.com/images/icons/open.png Open =="
+msgstr ""
+
+#: Privacy:72
+msgid "Anyone can view the information on an Open profile, and any WikiTree member in good standing with a confirmed e-mail address who has signed the [[Special:Honor_Code|Wiki Genealogist Honor Code]] can edit it. All edits are tracked, credited to the appropriate member, and can be reversed."
+msgstr ""
+
+#: Privacy:74
+msgid "* Profiles of non-living people without any sensitive information or real privacy concerns should be Open."
+msgstr ""
+
+#: Privacy:75
+msgid "* Profiles of '''people born over 150 years ago or who died over 100 years ago''' must be Open."
+msgstr ""
+
+#: Privacy:77
+msgid "[[Leaders|WikiTree Leaders]] can merge any two Open profiles. The mission of the WikiTree community is to connect modern families with ancestors on a single worldwide family tree. Merging duplicates is an important part of this."
+msgstr ""
+
+#: Privacy:80
+msgid "----"
+msgstr ""
+
+#: Privacy:83
+msgid "To change the Privacy Level on multiple profiles use the [[Special:PrivacyChanges|Bulk Privacy Changes]] tool."
+msgstr ""
+
+#: Privacy:85
+msgid "It's important to understand that WikiTree's '''privacy controls are for privacy, not control'''. All descendants have to [[Collaboration|share the same ancestor profiles]]. It's in our [[Special:Honor_Code|Honor Code]] keep information as free and open as possible. See the page on [[ownership and control]]."
+msgstr ""
+
+#: Privacy:87
+msgid "For the legal details of our [https://www.WikiTree.com/about/privacy.html privacy policy, click here]."
+msgstr ""
+
+#: Privacy:89
+msgid "__NOEDITSECTION__"
+msgstr ""
+
+#: Privacy:90
+msgid "[[Category:WikiTree Help]]"
+msgstr ""
