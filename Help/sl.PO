@@ -3,14 +3,17 @@ msgstr ""
 "Project-Id-Version: English (Help)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-02 10:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-12-02 18:54+0000\n"
+"Last-Translator: UserName LastName <user@example.com>\n"
+"Language-Team: Slovenian <http://192.168.101.105/projects/wikitree/help/sl/>"
+"\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 2.18-dev\n"
+"X-Generator: Weblate 2.17.1\n"
 
 #: Privacy:0
 msgid "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
@@ -30,7 +33,7 @@ msgstr ""
 
 #: Privacy:8
 msgid "== https://www.wikitree.com/images/icons/unlisted.png Unlisted =="
-msgstr ""
+msgstr "== https://www.wikitree.com/images/icons/unlisted.png Nevidna =="
 
 #: Privacy:10
 msgid "This is for profiles that you want to keep entirely hidden from everyone but the [[Trusted List]]. Unlisted names do not appear in search results, surname index pages, or automatic matches."
@@ -46,7 +49,7 @@ msgstr ""
 
 #: Privacy:16
 msgid "== https://www.wikitree.com/images/icons/private.png Private =="
-msgstr ""
+msgstr "== https://www.wikitree.com/images/icons/private.png Zasebna =="
 
 #: Privacy:18
 msgid "The public can see certain limited information on a Private profile. Like being listed in a phone book, this enables others to find it."
@@ -74,7 +77,7 @@ msgstr ""
 
 #: Privacy:30
 msgid "=== https://www.wikitree.com/images/icons/dot50.gif Public information ==="
-msgstr ""
+msgstr "=== https://www.wikitree.com/images/icons/dot50.gif Javna ==="
 
 #: Privacy:32
 msgid "''Green icons'' denote public information."
@@ -127,6 +130,8 @@ msgstr ""
 #: Privacy:54
 msgid "== https://www.wikitree.com/images/icons/privacy35.png Private with Public Family Tree =="
 msgstr ""
+"== https://www.wikitree.com/images/icons/privacy35.png Zasebna z javnim "
+"drevesom =="
 
 #: Privacy:56
 msgid "Exactly like Private profiles except that the person's '''Family Tree''' is public. Since they're connected, this also means the '''Gender''' and [[DNA]] test connections are public."
@@ -146,7 +151,7 @@ msgstr ""
 
 #: Privacy:64
 msgid "== https://www.wikitree.com/images/icons/public.png Public =="
-msgstr ""
+msgstr "== https://www.wikitree.com/images/icons/public.png Javna =="
 
 #: Privacy:66
 msgid "Anyone can view all the information on a Public profile. However, you still need to be in the [[Trusted List|Trusted List]] to add or change information."
