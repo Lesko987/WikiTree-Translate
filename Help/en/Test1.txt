@@ -5,7 +5,3 @@ Every single [[Profiles|profile]] on WikiTree has an independently-managed Priva
 The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time.,
 
 Here are details on the seven Privacy Levels.,
-
-== https://www.wikitree.com/images/icons/unlisted.png Unlisted ==,
-
-This is for profiles that you want to keep entirely hidden from everyone but the [[Trusted List]]. Unlisted names do not appear in search results, surname index pages, or automatic matches.,
