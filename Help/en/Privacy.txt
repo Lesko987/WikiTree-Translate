@@ -46,7 +46,7 @@ Specifically:,
 
 "'''Photos''': The tiny thumbnail of a photo is always unrestricted but the full version and information about images is private. Note, however, that if someone in a photo is public the whole image will be public. See [[Photo Privacy]].",
 
-"'''Activity''': The items recorded in [[activity feeds]] are viewable by anyone but they can only see the line item itself, not the details. (For example, anyone can see "Thomas Jefferson edited the biography of Ben Franklin", but only those on the Trusted List can click to see the details of what was edited.)",
+"'''Activity''': The items recorded in [[activity feeds]] are viewable by anyone but they can only see the line item itself, not the details. (For example, anyone can see ""Thomas Jefferson edited the biography of Ben Franklin"", but only those on the Trusted List can click to see the details of what was edited.)",
 
 == https://www.wikitree.com/images/icons/public-bio.png Private with Public Biography ==,
 
