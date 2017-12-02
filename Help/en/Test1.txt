@@ -1,6 +1,6 @@
 WikiTree's unique system carefully balances privacy and open [[collaboration]].,
 
-Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted List what you can see and do depends on the Privacy Level.,
+"Every single [[Profiles|profile]] on WikiTree has an independently-managed Privacy Level and [[Trusted List]]. If you're on the profile's Trusted List you can access everything. If you're not on the Trusted Lis,t what you can see and do depends on the Privacy Level.",
 
 The [[Profile Manager]] can change the Privacy Level by clicking the Privacy tab on a profile or [[Special:PrivacyChanges|change the Privacy Level on multiple profiles]] at the same time.,
 
