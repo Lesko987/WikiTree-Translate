@@ -1,0 +1,68 @@
+#: Trusted List:0
+msgid "== What is a Trusted List? =="
+msgstr "== What is a Trusted List? =="
+
+#: Trusted List:2
+msgid "WikiTree's [[Privacy|privacy system]] is based on what we call "Trusted Lists"."
+msgstr "WikiTree's [[Privacy|privacy system]] is based on what we call "Trusted Lists"."
+
+#: Trusted List:4
+msgid "A Trusted List is like a circle of trust around a  [[Profiles|profile]]. A family circle."
+msgstr "A Trusted List is like a circle of trust around a  [[Profiles|profile]]. A family circle."
+
+#: Trusted List:6
+msgid "Every profile has its own independently-managed Trusted List. If you're on the Trusted List for one person profile, it doesn't mean you're on the Trusted Lists for that person's relatives. The circle of trusted family members around every person is unique."
+msgstr "Every profile has its own independently-managed Trusted List. If you're on the Trusted List for one person profile, it doesn't mean you're on the Trusted Lists for that person's relatives. The circle of trusted family members around every person is unique."
+
+#: Trusted List:8
+msgid "If you're on a Trusted List you have full viewing and editing rights on the profile. What users outside the Trusted List can see and do depends on the [[Privacy|Privacy Level]]."
+msgstr "If you're on a Trusted List you have full viewing and editing rights on the profile. What users outside the Trusted List can see and do depends on the [[Privacy|Privacy Level]]."
+
+#: Trusted List:10
+msgid "This might sound complicated at first, but it's what makes [[Collaboration|collaboration on a single, shared family tree]] possible without compromising privacy."
+msgstr "This might sound complicated at first, but it's what makes [[Collaboration|collaboration on a single, shared family tree]] possible without compromising privacy."
+
+#: Trusted List:12
+msgid "== Adding and Removing from Trusted Lists =="
+msgstr "== Adding and Removing from Trusted Lists =="
+
+#: Trusted List:14
+msgid "Trusted Lists are managed by the members already on the Trusted List, led by the [[Profile Manager]]."
+msgstr "Trusted Lists are managed by the members already on the Trusted List, led by the [[Profile Manager]]."
+
+#: Trusted List:16
+msgid "To view or modify a profile's Trusted List, click the Privacy tab."
+msgstr "To view or modify a profile's Trusted List, click the Privacy tab."
+
+#: Trusted List:18
+msgid "You can request to be added to a Trusted List by clicking the request link on the profile. The Profile Manager will be e-mailed. If they approve you they'll be given the opportunity to add you to the Trusted Lists of related profiles at the same time."
+msgstr "You can request to be added to a Trusted List by clicking the request link on the profile. The Profile Manager will be e-mailed. If they approve you they'll be given the opportunity to add you to the Trusted Lists of related profiles at the same time."
+
+#: Trusted List:20
+msgid "There's a handy [[Special:TrustedListChanges|bulk Trusted List changes tool]] for adding or removing someone from multiple Trusted Lists at the same time."
+msgstr "There's a handy [[Special:TrustedListChanges|bulk Trusted List changes tool]] for adding or removing someone from multiple Trusted Lists at the same time."
+
+#: Trusted List:22
+msgid "== Trusted Lists are about Privacy, not Control =="
+msgstr "== Trusted Lists are about Privacy, not Control =="
+
+#: Trusted List:24
+msgid "It's important to keep in mind that Trusted Lists are a tool for privacy. They enable you to protect sensitive information, especially regarding living people."
+msgstr "It's important to keep in mind that Trusted Lists are a tool for privacy. They enable you to protect sensitive information, especially regarding living people."
+
+#: Trusted List:26
+msgid "They're not meant for excluding descendants who disagree on the facts. All descendants have to [[Collaboration|share the same ancestor profiles]]. Profile Managers need to seek consensus, even when it's very difficult. See the [[Special:Honor_Code|Honor Code]] and the page on [[ownership and control]]."
+msgstr "They're not meant for excluding descendants who disagree on the facts. All descendants have to [[Collaboration|share the same ancestor profiles]]. Profile Managers need to seek consensus, even when it's very difficult. See the [[Special:Honor_Code|Honor Code]] and the page on [[ownership and control]]."
+
+#: Trusted List:30
+msgid "See also: [[Watchlist|What is a Watchlist?]], [[Trusted List FAQ]], and more info on [[Trusted List Additions]] and [[Trusted List Removals]]."
+msgstr "See also: [[Watchlist|What is a Watchlist?]], [[Trusted List FAQ]], and more info on [[Trusted List Additions]] and [[Trusted List Removals]]."
+
+#: Trusted List:33
+msgid "[[Category:WikiTree Help]]"
+msgstr "[[Category:WikiTree Help]]"
+
+#: Trusted List:34
+msgid "__NOEDITSECTION__"
+msgstr "__NOEDITSECTION__"
+
