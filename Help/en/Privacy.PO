@@ -1,3 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: English (Help)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-02 10:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 2.18-dev\n"
+
 #: Privacy:0
 msgid "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
 msgstr "WikiTree's unique system carefully balances privacy and open [[collaboration]]."
