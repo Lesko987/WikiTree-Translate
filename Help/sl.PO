@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: English (Help)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-02 10:29+0200\n"
-"PO-Revision-Date: 2017-12-03 12:35+0000\n"
+"PO-Revision-Date: 2017-12-08 00:00+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: Slovenian <http://192.168.101.105/projects/wikitree-"
 "help/privacy/sl/>\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #: Privacy:6
 msgid "Here are details on the seven Privacy Levels."
-msgstr ""
+msgstr "Tu so podrobnosti o 7 nivojih zasebnosti."
 
 #: Privacy:8
 msgid "== https://www.wikitree.com/images/icons/unlisted.png Unlisted =="
