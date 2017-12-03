@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: English (Help)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-02 10:29+0200\n"
-"PO-Revision-Date: 2017-12-03 11:43+0000\n"
+"PO-Revision-Date: 2017-12-03 12:35+0000\n"
 "Last-Translator: UserName LastName <user@example.com>\n"
 "Language-Team: Slovenian <http://192.168.101.105/projects/wikitree-"
 "help/privacy/sl/>\n"
@@ -202,6 +202,5 @@ msgid "__NOEDITSECTION__"
 msgstr "__NOEDITSECTION__"
 
 #: Privacy:90
-#, fuzzy
 msgid "[[Category:WikiTree Help]]"
 msgstr "[[Category:WikiTree Help]]"
